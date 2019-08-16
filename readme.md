@@ -1,4 +1,4 @@
-# Shipt - TicTacTo
+# Shipt - TicTacToe
 
 Two users are able to play a game of TicTacToe
 
