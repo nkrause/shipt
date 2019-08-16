@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shipt</string>
+    <string name="new_game">New Game</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="new_game_dialog_message">Are you sure you want to start a new game?</string>
+    <string name="x_turn">X\'s Turn</string>
+    <string name="o_turn">O\'s Turn</string>
+    <string name="x_winner">X is the winner!</string>
+    <string name="o_winner">O is the winner!</string>
+    <string name="draw">Draw!</string>
+
+</resources>
